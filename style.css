@@ -1,0 +1,23 @@
+body{
+    color:blue;
+    background: rgb(179, 227, 152);
+    margin: 0px;
+    font-family:"Luckiest Guy", sans-serif;
+}
+
+header{
+    border-bottom: solid 2px white;
+    padding: 20px;
+    font-size: 32px;
+    color: red;
+}
+section{
+    background: white;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+.chamada-texto{
+    margin-right: 5%;
+}
